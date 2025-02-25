@@ -2,19 +2,23 @@
 
 Coherte
 
-Miembros del equipo: 3
+Miembros del equipo: 4
 
-Nombre: Daniel Cuello
-Rol:No Code Dev.
+Nombre: Daniel Cuello,
+Rol:No Code Dev.,
 Stack: WordPress, Elementor
 
-Nombre: Brygith Montilla
-Rol:No Code Dev.
+Nombre: Brygith Montilla,
+Rol:No Code Dev.,
 Stack: WordPress, Elementor
 
-Nombre: Marianela Pi
-Rol: UX/UI
+Nombre: Marianela Pi,
+Rol: UX/UI,
 Stack: Figma, Illustrator
+
+Nombre: Manuel Mirabal,
+Rol: 
+Stack: 
 
 Sector del MVP: Movie
 
@@ -28,6 +32,7 @@ Este MVP se centra en la experiencia de un usuario que desea ver una película o
 7.	Página de Descripción: Se despliega la información detallada del contenido (sinopsis, duración, etc.).
 8.	Clic en Play: El usuario hace clic para reproducir el contenido.
 9.	Reproductor de Video: Finalmente, se abre el reproductor de video y el usuario puede disfrutar del contenido seleccionado.
+
 Este flujo describe los pasos más relevantes para acceder al contenido audiovisual: desde la pantalla de inicio y la autenticación del usuario hasta la reproducción final de la película o video.
 
 ![image](https://github.com/user-attachments/assets/228b468b-7928-40dc-aa12-b8c362950e42)
