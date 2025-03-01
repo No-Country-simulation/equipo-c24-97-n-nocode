@@ -84,11 +84,7 @@ Antes de comenzar con el diseño y la construcción del sitio web, se realizó u
 Tras validar el diseño en Figma, se procedió a configurar WordPress para la implementación del sitio.
 
 #### **3.1 Instalación y Configuración Inicial**
-- Instalación de WordPress en el hosting.
-- Configuración de ajustes generales, incluyendo:
-  - **Idioma y zona horaria.**
-  - **Enlaces permanentes optimizados para SEO.**
-  - **Usuarios y permisos.**
+
 
 #### **3.2 Instalación de Plugins Esenciales**
 Se instalaron y activaron plugins clave para la construcción del sitio:
@@ -103,28 +99,17 @@ Se instalaron y activaron plugins clave para la construcción del sitio:
 Con la configuración de WordPress lista, se comenzó a construir el sitio con Elementor.
 
 #### **4.1 Creación de la Página Principal**
-- **Uso de secciones y columnas:** Para distribuir los elementos de manera estructurada.
-- **Agregado de tarjetas de películas:** Se crearon bloques con imagen, título y botón de acceso a la sinopsis.
-- **Optimización para móviles:** Se ajustaron los elementos para asegurar compatibilidad con diferentes dispositivos.
 
 #### **4.2 Configuración de la Página de Películas**
-Cada película tiene una página individual con:
-- **Sinopsis y detalles:** Información de la película, como director, año y duración.
-- **Botón de reproducción:** Redirige al usuario a la fuente donde puede ver la película.
+
 
 #### **4.3 Integración de Navegación y Enlaces**
-- Se configuraron enlaces en las tarjetas de películas para que al hacer clic lleven a su página individual.
-- Se añadieron botones de navegación para mejorar la experiencia del usuario.
+
 
 ---
 
 ### **5. Integración y Pruebas**
-Una vez creadas todas las páginas, se realizaron pruebas y ajustes finales:
 
-- **Pruebas de navegación:** Se verificó que los enlaces funcionaran correctamente.
-- **Optimización de imágenes:** Se utilizó el plugin Image Optimizer para reducir el peso sin perder calidad.
-- **Velocidad de carga:** Se revisó el rendimiento del sitio con herramientas de análisis.
-- **Correcciones finales:** Se ajustaron detalles de diseño y se revisó la experiencia en distintos dispositivos.
 
 
 ##  Problemas Encontrados y Soluciones
