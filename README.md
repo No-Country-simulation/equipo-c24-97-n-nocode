@@ -2,7 +2,7 @@
 
 Coherte
 
-Miembros del equipo: 4
+Miembros del equipo: 3
 
 Nombre: Daniel Cuello,
 Rol:No Code Dev.,
@@ -16,9 +16,6 @@ Nombre: Marianela Pi,
 Rol: UX/UI,
 Stack: Figma, Illustrator
 
-Nombre: Manuel Mirabal,
-Rol: 
-Stack: 
 
 Sector del MVP: Movie
 
