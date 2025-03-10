@@ -64,12 +64,12 @@ El propósito de **MovieMatrix** es ofrecer un espacio accesible donde cualquier
 8. **Reproductor de video:** El usuario disfruta del contenido.  
 
 ###  Ejemplo Visual  
-![Ejemplo de interfaz](UX/Frames/movies.pdf)  
+![Ejemplo de interfaz](img/Movies_page-0001.jpg)  
 
 ---
 
 ##  Acceso al Proyecto  
- **Accede aquí:** [MovieMatrix](https://github.com/No-Country-simulation/equipo-c24-97-n-nocode.git))
+ **Accede aquí:** [MovieMatrix](https://github.com/No-Country-simulation/equipo-c24-97-n-nocode.git)
 
  
 
