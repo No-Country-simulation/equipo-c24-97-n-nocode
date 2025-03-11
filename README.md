@@ -67,10 +67,6 @@ Este flujo describe los pasos más relevantes para acceder al contenido audiovis
 
 ![image](https://github.com/user-attachments/assets/228b468b-7928-40dc-aa12-b8c362950e42)
 
-
-###  Ejemplo Visual  
-![Ejemplo de interfaz](img/Movies_page-0001.jpg)  
-
 ---
 
 ##  Acceso al Proyecto  
