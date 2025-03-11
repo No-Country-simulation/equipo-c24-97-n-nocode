@@ -1,7 +1,7 @@
 # MovieMatrix  
 
 <p align="center">
-  <img src="/UX/Img/Logo/logoV3.png" alt="Mi Logo" width="600" height="200">
+  <img src="/UX/Img/Logo/logoV3.png" alt="Mi Logo" width="500" height="150">
 </p> 
 
 ## Insignias  
