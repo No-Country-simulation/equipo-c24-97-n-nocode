@@ -70,7 +70,7 @@ Este flujo describe los pasos más relevantes para acceder al contenido audiovis
 ---
 
 ##  Acceso al Proyecto  
- **Accede aquí:** [MovieMatrix](https://github.com/No-Country-simulation/equipo-c24-97-n-nocode.git)
+ **Accede aquí:** [MovieMatrix](http://moviematrix.kesug.com/)
 
  
 
