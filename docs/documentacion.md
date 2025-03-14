@@ -33,7 +33,7 @@ MovieMatrix está dirigido a usuarios de todas las edades que buscan un servicio
 
 ##  Tecnologías y Herramientas Utilizadas  
 - **Sitio Web**: [MovieMatrix](http://moviematrix.kesug.com/)  
-- **Hosting**: iFastNet   
+- **Hosting**: infinityfree.com   
 - **Constructor Visual**: Elementor
 - **Diseño**: Figma
 - **Plugins Principales**:  
