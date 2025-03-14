@@ -95,6 +95,8 @@ Este flujo describe los pasos más relevantes para acceder al contenido audiovis
 - **Image Optimizer** – Optimización de imágenes.  
 - **Akismet Anti-Spam** – Protección contra spam.  
 
+
+Link diseño Figma:(https://www.figma.com/design/ErHvYKP19ZlxNhqLY3Gelz/Movies?node-id=0-1&t=3iL3kLqDhLA2yCVm-0)
 ---
 
 ##  Personas Contribuyentes  
