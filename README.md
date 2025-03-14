@@ -96,7 +96,7 @@ Este flujo describe los pasos más relevantes para acceder al contenido audiovis
 - **Akismet Anti-Spam** – Protección contra spam.  
 
 ##  Acceso al diseño en Figma  
-**Accede aquí:** [Link diseño Figma:](https://www.figma.com/design/ErHvYKP19ZlxNhqLY3Gelz/Movies?node-id=0-1&t=3iL3kLqDhLA2yCVm-0)
+[Link diseño Figma:](https://www.figma.com/design/ErHvYKP19ZlxNhqLY3Gelz/Movies?node-id=0-1&t=3iL3kLqDhLA2yCVm-0)
 ---
 
 ##  Personas Contribuyentes  
